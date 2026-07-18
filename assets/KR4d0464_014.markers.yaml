@@ -148,6 +148,7 @@ markers:
   - {type: indent, offset: 299, content: 　　　　, id: KR4d0464_krp_014-bkkind5}
   - {type: punctuation, offset: 303, content: (, id: KR4d0464_krp_014-bkkpn1}
   - {type: variant, offset: 303, length: 5, content: 時先考卧病, WYG: ''}
+  - {type: voice, offset: 303, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 308, content: ), id: KR4d0464_krp_014-bkkpn2}
   - {type: 'kr:newline', offset: 308, content: '
 
@@ -384,6 +385,7 @@ markers:
   - {type: indent, offset: 797, content: 　　　　, id: KR4d0464_krp_014-bkkind13}
   - {type: punctuation, offset: 800, content: (, id: KR4d0464_krp_014-bkkpn3}
   - {type: variant, offset: 800, length: 5, content: 壬子歲正月, WYG: ''}
+  - {type: voice, offset: 800, length: 5, name: note, id: n2}
   - {type: variant, offset: 802, length: 1, content: 歲, SBCK: 􅀊}
   - {type: punctuation, offset: 805, content: ), id: KR4d0464_krp_014-bkkpn4}
   - {type: 'kr:newline', offset: 805, content: '
@@ -583,6 +585,7 @@ markers:
   - {type: punctuation, offset: 1172, content: (, id: KR4d0464_krp_014-bkkpn5}
   - {type: variant, offset: 1172, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 1172, length: 16, content: 𥘉來軍儲字子清蒙古人官至中書左丞, WYG: ''}
+  - {type: voice, offset: 1172, length: 16, name: note, id: n3}
   - {type: punctuation, offset: 1184, content: /, id: KR4d0464_krp_014-bkkpn6}
   - {type: punctuation, offset: 1188, content: ), id: KR4d0464_krp_014-bkkpn7}
   - {type: 'kr:newline', offset: 1188, content: '
@@ -1006,6 +1009,7 @@ markers:
   - {type: indent, offset: 2028, content: 　　　　, id: KR4d0464_krp_014-bkkind35}
   - {type: punctuation, offset: 2036, content: (, id: KR4d0464_krp_014-bkkpn8}
   - {type: variant, offset: 2036, length: 6, content: 時奔䘮夏津賓, WYG: 賔}
+  - {type: voice, offset: 2036, length: 5, name: note, id: n4}
   - {type: substitution, offset: 2038, original: 䘮, replacement: 喪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19427}}
   - {type: punctuation, offset: 2041, content: ), id: KR4d0464_krp_014-bkkpn9}
   - {type: 'kr:newline', offset: 2041, content: '
@@ -1653,6 +1657,7 @@ markers:
   - {type: variant, offset: 3357, length: 1, content: 阿, WYG: 何}
   - {type: punctuation, offset: 3372, content: (, id: KR4d0464_krp_014-bkkpn10}
   - {type: variant, offset: 3372, length: 5, content: 時自鄧鄙四, WYG: ''}
+  - {type: voice, offset: 3372, length: 5, name: note, id: n5}
   - {type: punctuation, offset: 3376, content: /, id: KR4d0464_krp_014-bkkpn11}
   - {type: punctuation, offset: 3377, content: ), id: KR4d0464_krp_014-bkkpn12}
   - {type: 'kr:newline', offset: 3377, content: '
@@ -1662,6 +1667,7 @@ markers:
   - {type: indent, offset: 3377, content: 　　　　, id: KR4d0464_krp_014-bkkind56}
   - {type: punctuation, offset: 3386, content: (, id: KR4d0464_krp_014-bkkpn13}
   - {type: variant, offset: 3386, length: 2, content: 并序, WYG: ''}
+  - {type: voice, offset: 3386, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 3388, content: ), id: KR4d0464_krp_014-bkkpn14}
   - {type: 'kr:newline', offset: 3388, content: '
 
@@ -1693,6 +1699,7 @@ markers:
   - {type: variant, offset: 3443, length: 1, content: 扵, WYG: 於}
   - {type: substitution, offset: 3443, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 3450, content: (, id: KR4d0464_krp_014-bkkpn15}
+  - {type: voice, offset: 3450, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 3451, content: /, id: KR4d0464_krp_014-bkkpn16}
   - {type: variant, offset: 3451, length: 1, content: 者, WYG: ''}
   - {type: punctuation, offset: 3452, content: ), id: KR4d0464_krp_014-bkkpn17}
@@ -1862,6 +1869,7 @@ markers:
   - {type: punctuation, offset: 3793, content: (, id: KR4d0464_krp_014-bkkpn18}
   - {type: variant, offset: 3793, length: 4, content: 爲仲希賦, WYG: ''}
   - {type: substitution, offset: 3793, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
+  - {type: voice, offset: 3793, length: 4, name: note, id: n8}
   - {type: punctuation, offset: 3797, content: ), id: KR4d0464_krp_014-bkkpn19}
   - {type: 'kr:newline', offset: 3797, content: '
 
@@ -1984,6 +1992,7 @@ markers:
   - {type: variant, offset: 4036, length: 1, content: 夣, WYG: 夢}
   - {type: substitution, offset: 4036, original: 夣, replacement: 夢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19960}}
   - {type: punctuation, offset: 4040, content: (, id: KR4d0464_krp_014-bkkpn20}
+  - {type: voice, offset: 4040, length: 12, name: note, id: n9}
   - {type: punctuation, offset: 4044, content: /, id: KR4d0464_krp_014-bkkpn21}
   - {type: variant, offset: 4044, length: 0, content: '', WYG: 書}
   - {type: variant, offset: 4046, length: 1, content: 書, WYG: ''}
@@ -2155,6 +2164,7 @@ markers:
   - {type: variant, offset: 4353, length: 1, content: 慘, SBCK: 􅆭}
   - {type: punctuation, offset: 4361, content: (, id: KR4d0464_krp_014-bkkpn26}
   - {type: variant, offset: 4361, length: 10, content: 先生比化甘露降庭竹上, WYG: ''}
+  - {type: voice, offset: 4361, length: 10, name: note, id: n10}
   - {type: punctuation, offset: 4366, content: /, id: KR4d0464_krp_014-bkkpn27}
   - {type: punctuation, offset: 4371, content: ), id: KR4d0464_krp_014-bkkpn28}
   - {type: 'kr:newline', offset: 4371, content: '
@@ -2611,6 +2621,7 @@ markers:
   - {type: punctuation, offset: 5316, content: (, id: KR4d0464_krp_014-bkkpn29}
   - {type: variant, offset: 5316, length: 1, content: 継, WYG: 繼}
   - {type: substitution, offset: 5316, original: 継, replacement: 繼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20649}}
+  - {type: voice, offset: 5316, length: 4, name: note, id: n11}
   - {type: punctuation, offset: 5320, content: ), id: KR4d0464_krp_014-bkkpn30}
   - {type: 'kr:newline', offset: 5320, content: '
 
@@ -3149,4 +3160,4 @@ markers:
   - {type: variant, offset: 6448, length: 0, content: '', WYG: 欽定四庫全書秋間集卷十五元王惲撰七言律詩}
   - {type: page-break, offset: 6448, content: '', id: KR4d0464_WYG_015-1a, image: WYG1200/WYG1200-0177a.png}
   back: []
-hash: sha256:ea0c9f0aece07df98df04a579ed0f9f5aa41f4ec69dec94ce781fb477514145b
+hash: sha256:874900631096694ef306c122d183f19bc98848b3ef67444b1b12d6349afcb5da

@@ -22,6 +22,7 @@ markers:
   - {type: variant, offset: 24, length: 1, content: 两, WYG: 兩}
   - {type: substitution, offset: 24, original: 两, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16494}}
   - {type: punctuation, offset: 26, content: (, id: KR4d0464_krp_093-bkkpn1}
+  - {type: voice, offset: 26, length: 5, name: note, id: n1}
   - {type: substitution, offset: 27, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 28, content: /, id: KR4d0464_krp_093-bkkpn2}
   - {type: punctuation, offset: 30, content: ), id: KR4d0464_krp_093-bkkpn3}
@@ -641,6 +642,7 @@ markers:
   - {type: variant, offset: 1715, length: 1, content: 巳, WYG: 已}
   - {type: variant, offset: 1721, length: 1, content: 戍, WYG: 戌}
   - {type: punctuation, offset: 1728, content: (, id: KR4d0464_krp_093-bkkpn6}
+  - {type: voice, offset: 1728, length: 7, name: note, id: n2}
   - {type: variant, offset: 1734, length: 1, content: 跋, WYG: 䟦}
   - {type: punctuation, offset: 1735, content: ), id: KR4d0464_krp_093-bkkpn7}
   - {type: 'kr:newline', offset: 1735, content: '
@@ -1209,6 +1211,7 @@ markers:
       ', id: KR4d0464_krp_093-bkkkrnewl186}
   - {type: line-break, offset: 3254, content: '', id: KR4d0464_SBCK_093-8a05}
   - {type: punctuation, offset: 3258, content: (, id: KR4d0464_krp_093-bkkpn8}
+  - {type: voice, offset: 3258, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 3260, content: /, id: KR4d0464_krp_093-bkkpn9}
   - {type: punctuation, offset: 3261, content: ), id: KR4d0464_krp_093-bkkpn10}
   - {type: variant, offset: 3269, length: 1, content: 甞, WYG: 常}
@@ -1918,6 +1921,7 @@ markers:
   - {type: variant, offset: 5122, length: 1, content: 暦, WYG: 厯}
   - {type: substitution, offset: 5122, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: punctuation, offset: 5125, content: (, id: KR4d0464_krp_093-bkkpn11}
+  - {type: voice, offset: 5125, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5127, content: ), id: KR4d0464_krp_093-bkkpn12}
   - {type: variant, offset: 5127, length: 1, content: 倠, WYG: 惟}
   - {type: variant, offset: 5128, length: 1, content: 暦, WYG: 厯}
@@ -1968,4 +1972,4 @@ markers:
   - {type: variant, offset: 5213, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷九十四元王惲撰玉堂嘉話卷}
   - {type: page-break, offset: 5213, content: '', id: KR4d0464_WYG_094-1a, image: WYG1201/WYG1201-0337a.png}
   back: []
-hash: sha256:72e7c06753ccfa488dc325482698018489d30d4cd2c95706f0e4b1b2d3fdfd1a
+hash: sha256:3635d3fd444176a43e827553fd70104f39ea35227005bd871eff23214e861035

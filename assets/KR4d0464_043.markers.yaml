@@ -653,6 +653,7 @@ markers:
   - {type: variant, offset: 1672, length: 1, content: 隱, WYG: 隠}
   - {type: variant, offset: 1677, length: 1, content: 黎, SBCK: 􅀺}
   - {type: punctuation, offset: 1681, content: (, id: KR4d0464_krp_043-bkkpn1}
+  - {type: voice, offset: 1681, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1683, content: /, id: KR4d0464_krp_043-bkkpn2}
   - {type: variant, offset: 1684, length: 1, content: 潜, WYG: 潛}
   - {type: substitution, offset: 1684, original: 潜, replacement: 潛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17753}}
@@ -1447,6 +1448,7 @@ markers:
   - {type: variant, offset: 3614, length: 1, content: 舘, WYG: 館}
   - {type: substitution, offset: 3614, original: 舘, replacement: 館, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17344}}
   - {type: punctuation, offset: 3617, content: (, id: KR4d0464_krp_043-bkkpn4}
+  - {type: voice, offset: 3617, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 3618, content: /, id: KR4d0464_krp_043-bkkpn5}
   - {type: punctuation, offset: 3619, content: ), id: KR4d0464_krp_043-bkkpn6}
   - {type: 'kr:newline', offset: 3620, content: '
@@ -3665,4 +3667,4 @@ markers:
   - {type: variant, offset: 9457, length: 0, content: '', WYG: 欽定四庫全書秋澗集巻四十四元王惲撰}
   - {type: page-break, offset: 9457, content: '', id: KR4d0464_WYG_044-1a, image: WYG1200/WYG1200-0567c.png}
   back: []
-hash: sha256:7ae1e24b8452587c3d485b0548233a95926eb2ad55521d45cb5a261ebddfccd9
+hash: sha256:1bda03ce7075e2c380f8c274ef1aac39b1ff9442493c03a2fe6aafbe4f3a8ad1

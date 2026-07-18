@@ -613,6 +613,7 @@ markers:
       ', id: KR4d0464_krp_101-bkkkrnewl61}
   - {type: line-break, offset: 836, content: '', id: KR4d0464_SBCK_101-5b01}
   - {type: punctuation, offset: 843, content: (, id: KR4d0464_krp_101-bkkpn1}
+  - {type: voice, offset: 843, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 845, content: ), id: KR4d0464_krp_101-bkkpn2}
   - {type: 'kr:newline', offset: 845, content: '
 
@@ -784,6 +785,7 @@ markers:
   - {type: variant, offset: 1270, length: 1, content: 畫, SBCK: 􅀞}
   - {type: punctuation, offset: 1273, content: (, id: KR4d0464_krp_101-bkkpn3}
   - {type: variant, offset: 1273, length: 492, content: 耆英㑹七十方入静吟秋澗雲泉緑安歩花磚暁日紅玉樹芝蘭方秀發詞源筆力愈清雄鹿庵慎獨傳芳派㑹見遐齡繼兩公王瓠山文衡始字文康公敬齋鹿庵聲望隆共城三王稍後出秋澗早直蓬萊宫升華屢赴延英召下筆咸推言語妙邊臣獎諭相臣麻百粤三韓同荅詔烏臺𥘉立公選掄輟之持憲材益伸宗祐不嚴考工罪忠言亹亹逹楓宸繡衣山東又河北民不媮浮吏姦戢累牋進上青宫圖玉𥙿淵冲垂典則出處平生唯自足使節何堪上閩蜀搜窮學海思遒贍練多世事機圎熟天朝養賢恩禮殊中統而後元貞𥘉東門賜金開祖幄西園束帛隨徴書重來地尊年未老積行弸中外敷藻鈎深輯略手編研謹而月之仍細考共山不煩頻勒移耆英今日非公誰九十司徒昔甞有康強七十歸豈冝晚生幸際扶摇便前軰風流親接見中州元氣三數公介壽同饗公堂燕楊損齋方平家世有公賢三壽纔行七十年秋澗未容歸舊隱瀛洲方且㑹群仙向來政事流遺愛此去文章論正傳我幸巷南瞻巷北時時訪問得周旋陳北山秋澗仙翁年七十五色筆頭百鈞力應龍淵潜忽天飛白日湧雲轟靂靂湏臾雨止風亦霽萬頃淪漪舞秋碧真書透𥿄錐畫沙行草入神綰驚蛇胷中政有不平事搦管一掃無邊涯平生六籍不去手刋落枝葉收菁華世無公是有公器跳出百家成一家癸巳之秋皆赴召晚生何堪從諸老長楊館裏共瞻天承明廬中同視草, WYG: 原更難}
+  - {type: voice, offset: 1273, length: 7, name: note, id: n2}
   - {type: substitution, offset: 1275, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 1277, content: /, id: KR4d0464_krp_101-bkkpn4}
   - {type: punctuation, offset: 1280, content: ), id: KR4d0464_krp_101-bkkpn5}
@@ -1248,6 +1250,7 @@ markers:
       ', id: KR4d0464_krp_101-bkkkrnewl173}
   - {type: line-break, offset: 2614, content: '', id: KR4d0464_SBCK_101-9b09}
   - {type: punctuation, offset: 2615, content: (, id: KR4d0464_krp_101-bkkpn6}
+  - {type: voice, offset: 2615, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 2616, content: ), id: KR4d0464_krp_101-bkkpn7}
   - {type: variant, offset: 2624, length: 1, content: 兮, SBCK: 􅀆}
   - {type: substitution, offset: 2632, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -1543,6 +1546,7 @@ markers:
   - {type: indent, offset: 3427, content: 　　　, id: KR4d0464_krp_101-bkkind48}
   - {type: substitution, offset: 3427, original: 謚, replacement: 諡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20215}}
   - {type: punctuation, offset: 3436, content: (, id: KR4d0464_krp_101-bkkpn8}
+  - {type: voice, offset: 3436, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3438, content: ), id: KR4d0464_krp_101-bkkpn9}
   - {type: 'kr:newline', offset: 3438, content: '
 
@@ -2563,4 +2567,4 @@ markers:
 
       ', id: KR4d0464_krp_101-bkkkrnewl414}
   back: []
-hash: sha256:fbead64108c28f02ac0c96a7a0c9e4048b1574ed44142bcae682a74f1db7daf8
+hash: sha256:dcee8741304ab7f3a7040d8fdaa5517951984b6430d5f42764f962eebc6d5831

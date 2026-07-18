@@ -879,6 +879,7 @@ markers:
   - {type: substitution, offset: 1875, original: 縁, replacement: 緣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19870}}
   - {type: punctuation, offset: 1876, content: (, id: KR4d0464_krp_070-bkkpn1}
   - {type: substitution, offset: 1876, original: 䟽, replacement: 疏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19469}}
+  - {type: voice, offset: 1876, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1877, content: /, id: KR4d0464_krp_070-bkkpn2}
   - {type: punctuation, offset: 1878, content: ), id: KR4d0464_krp_070-bkkpn3}
   - {type: 'kr:newline', offset: 1883, content: '
@@ -2650,4 +2651,4 @@ markers:
   - {type: variant, offset: 5929, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷七十一元王惲撰題䟦}
   - {type: page-break, offset: 5929, content: '', id: KR4d0464_WYG_071-1a, image: WYG1201/WYG1201-0065c.png}
   back: []
-hash: sha256:9567db22b0f6f421496b97ca71d8bbdbf2d0e4a6b3b0a0a19b2fbc97eb2dae3b
+hash: sha256:7028dd34bd8b245e4cd594195c2d523e79f2881c70fda98f6ac70f2398c2cab8

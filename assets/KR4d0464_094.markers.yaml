@@ -683,6 +683,7 @@ markers:
   - {type: variant, offset: 1545, length: 1, content: 己, WYG: 已}
   - {type: variant, offset: 1552, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 1553, content: (, id: KR4d0464_krp_094-bkkpn1}
+  - {type: voice, offset: 1553, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1556, content: ), id: KR4d0464_krp_094-bkkpn2}
   - {type: variant, offset: 1557, length: 1, content: 馹, WYG: 驛}
   - {type: variant, offset: 1562, length: 1, content: 株, WYG: 林}
@@ -2016,8 +2017,10 @@ markers:
       ', id: KR4d0464_krp_094-bkkkrnewl278}
   - {type: line-break, offset: 4788, content: '', id: KR4d0464_SBCK_094-11b05}
   - {type: punctuation, offset: 4788, content: (, id: KR4d0464_krp_094-bkkpn3}
+  - {type: voice, offset: 4788, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 4791, content: ), id: KR4d0464_krp_094-bkkpn4}
   - {type: punctuation, offset: 4795, content: (, id: KR4d0464_krp_094-bkkpn5}
+  - {type: voice, offset: 4795, length: 9, name: note, id: n3}
   - {type: variant, offset: 4799, length: 1, content: 佳, WYG: 杜}
   - {type: variant, offset: 4800, length: 1, content: 音, WYG: 昔}
   - {type: punctuation, offset: 4804, content: ), id: KR4d0464_krp_094-bkkpn6}
@@ -2174,6 +2177,7 @@ markers:
       ', id: KR4d0464_krp_094-bkkkrnewl301}
   - {type: line-break, offset: 5143, content: '', id: KR4d0464_SBCK_094-12b02}
   - {type: punctuation, offset: 5147, content: (, id: KR4d0464_krp_094-bkkpn7}
+  - {type: voice, offset: 5147, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 5151, content: ), id: KR4d0464_krp_094-bkkpn8}
   - {type: 'kr:newline', offset: 5151, content: '
 
@@ -2466,6 +2470,7 @@ markers:
       ', id: KR4d0464_krp_094-bkkkrnewl345}
   - {type: line-break, offset: 5730, content: '', id: KR4d0464_SBCK_094-14a07}
   - {type: punctuation, offset: 5731, content: (, id: KR4d0464_krp_094-bkkpn9}
+  - {type: voice, offset: 5731, length: 5, name: note, id: n5}
   - {type: substitution, offset: 5732, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: variant, offset: 5734, length: 1, content: 年, WYG: 載}
   - {type: punctuation, offset: 5736, content: ), id: KR4d0464_krp_094-bkkpn10}
@@ -2614,4 +2619,4 @@ markers:
   - {type: variant, offset: 5996, length: 0, content: '', WYG: 欽定四庫全書秋澗}
   - {type: page-break, offset: 5996, content: '', id: KR4d0464_WYG_095-1a, image: WYG1201/WYG1201-0348a.png}
   back: []
-hash: sha256:dce5e19ba5208587144230624dff36092a112b01f803c0d437fe7a652a8d3b1e
+hash: sha256:2d616bb134be4216f4f8df699f8227d5f39a87478795af19b0272a6f5c9e74fd

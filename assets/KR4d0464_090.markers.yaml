@@ -14,6 +14,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0464_SBCK_090-1a02}
   - {type: indent, offset: 0, content: 　, id: KR4d0464_krp_090-bkkind1}
   - {type: punctuation, offset: 6, content: (, id: KR4d0464_krp_090-bkkpn1}
+  - {type: voice, offset: 6, length: 8, name: note, id: n1}
   - {type: variant, offset: 9, length: 1, content: 監, SBCK: 􅁥}
   - {type: punctuation, offset: 14, content: ), id: KR4d0464_krp_090-bkkpn2}
   - {type: 'kr:newline', offset: 14, content: '
@@ -254,6 +255,7 @@ markers:
   - {type: indent, offset: 437, content: 　, id: KR4d0464_krp_090-bkkind38}
   - {type: punctuation, offset: 439, content: (, id: KR4d0464_krp_090-bkkpn3}
   - {type: variant, offset: 439, length: 5, content: 三緩逺征二, WYG: ''}
+  - {type: voice, offset: 439, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 440, content: ), id: KR4d0464_krp_090-bkkpn4}
   - {type: 'kr:newline', offset: 440, content: '
 
@@ -265,6 +267,7 @@ markers:
   - {type: line-break, offset: 440, content: '', id: KR4d0464_SBCK_090-2b01}
   - {type: indent, offset: 440, content: 　　　　　, id: KR4d0464_krp_090-bkkind39}
   - {type: punctuation, offset: 443, content: (, id: KR4d0464_krp_090-bkkpn5}
+  - {type: voice, offset: 443, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 444, content: ), id: KR4d0464_krp_090-bkkpn6}
   - {type: variant, offset: 446, length: 0, content: '', WYG: 軍戸}
   - {type: substitution, offset: 449, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20802}}
@@ -294,6 +297,7 @@ markers:
   - {type: line-break, offset: 464, content: '', id: KR4d0464_SBCK_090-2b05}
   - {type: indent, offset: 464, content: 　　　　, id: KR4d0464_krp_090-bkkind44}
   - {type: punctuation, offset: 467, content: (, id: KR4d0464_krp_090-bkkpn7}
+  - {type: voice, offset: 467, length: 15, name: note, id: n4}
   - {type: punctuation, offset: 475, content: /, id: KR4d0464_krp_090-bkkpn8}
   - {type: variant, offset: 476, length: 0, content: '', WYG: 則}
   - {type: punctuation, offset: 482, content: ), id: KR4d0464_krp_090-bkkpn9}
@@ -366,6 +370,7 @@ markers:
   - {type: variant, offset: 547, length: 1, content: 間, WYG: 閒}
   - {type: punctuation, offset: 552, content: (, id: KR4d0464_krp_090-bkkpn10}
   - {type: variant, offset: 552, length: 2, content: 二事, WYG: ''}
+  - {type: voice, offset: 552, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 554, content: ), id: KR4d0464_krp_090-bkkpn11}
   - {type: 'kr:newline', offset: 560, content: '
 
@@ -375,6 +380,7 @@ markers:
   - {type: variant, offset: 562, length: 1, content: 搔, WYG: 侵}
   - {type: punctuation, offset: 566, content: (, id: KR4d0464_krp_090-bkkpn12}
   - {type: variant, offset: 566, length: 2, content: 五事, WYG: ''}
+  - {type: voice, offset: 566, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 568, content: ), id: KR4d0464_krp_090-bkkpn13}
   - {type: 'kr:newline', offset: 568, content: '
 
@@ -2793,6 +2799,7 @@ markers:
   - {type: substitution, offset: 6262, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: substitution, offset: 6264, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: punctuation, offset: 6279, content: (, id: KR4d0464_krp_090-bkkpn14}
+  - {type: voice, offset: 6279, length: 5, name: note, id: n7}
   - {type: punctuation, offset: 6282, content: /, id: KR4d0464_krp_090-bkkpn15}
   - {type: variant, offset: 6282, length: 2, content: 是也, WYG: ''}
   - {type: punctuation, offset: 6284, content: ), id: KR4d0464_krp_090-bkkpn16}
@@ -4256,4 +4263,4 @@ markers:
   - {type: variant, offset: 9641, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷九十一元王惲撰事狀}
   - {type: page-break, offset: 9641, content: '', id: KR4d0464_WYG_091-1a, image: WYG1201/WYG1201-0314a.png}
   back: []
-hash: sha256:12be5abe0e14a55de427c9cfdb551eaf8ecb9dd1349567fd9cbfc0fc49cb7558
+hash: sha256:34261971bd930a2bb63c2a84b5360e35a04a457be9133e2e29c3ebc78d5e4aaa

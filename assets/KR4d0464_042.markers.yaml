@@ -241,6 +241,7 @@ markers:
       ', id: KR4d0464_krp_042-bkkkrnewl35}
   - {type: line-break, offset: 581, content: '', id: KR4d0464_SBCK_042-2a10}
   - {type: punctuation, offset: 584, content: (, id: KR4d0464_krp_042-bkkpn1}
+  - {type: voice, offset: 584, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 585, content: /, id: KR4d0464_krp_042-bkkpn2}
   - {type: punctuation, offset: 586, content: ), id: KR4d0464_krp_042-bkkpn3}
   - {type: 'kr:newline', offset: 588, content: '
@@ -382,6 +383,7 @@ markers:
   - {type: variant, offset: 930, length: 1, content: 掾, SBCK: 􅁺}
   - {type: variant, offset: 933, length: 1, content: 時, WYG: ''}
   - {type: punctuation, offset: 938, content: (, id: KR4d0464_krp_042-bkkpn4}
+  - {type: voice, offset: 938, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 941, content: /, id: KR4d0464_krp_042-bkkpn5}
   - {type: punctuation, offset: 944, content: ), id: KR4d0464_krp_042-bkkpn6}
   - {type: variant, offset: 944, length: 1, content: 日, WYG: 曰}
@@ -2008,6 +2010,7 @@ markers:
   - {type: line-break, offset: 4935, content: '', id: KR4d0464_SBCK_042-12b01}
   - {type: variant, offset: 4939, length: 1, content: 栁, WYG: 桞}
   - {type: punctuation, offset: 4943, content: (, id: KR4d0464_krp_042-bkkpn7}
+  - {type: voice, offset: 4943, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4944, content: /, id: KR4d0464_krp_042-bkkpn8}
   - {type: punctuation, offset: 4945, content: ), id: KR4d0464_krp_042-bkkpn9}
   - {type: variant, offset: 4945, length: 1, content: 滿, WYG: 瀟}
@@ -2584,6 +2587,7 @@ markers:
   - {type: variant, offset: 6438, length: 1, content: 歲, SBCK: 􅀊}
   - {type: variant, offset: 6440, length: 1, content: 夀, WYG: 壽}
   - {type: punctuation, offset: 6442, content: (, id: KR4d0464_krp_042-bkkpn10}
+  - {type: voice, offset: 6442, length: 29, name: note, id: n4}
   - {type: punctuation, offset: 6443, content: /, id: KR4d0464_krp_042-bkkpn11}
   - {type: variant, offset: 6443, length: 1, content: 𥘉, SBCK: 􅀄}
   - {type: variant, offset: 6443, length: 1, content: 𥘉, WYG: 初}
@@ -3010,4 +3014,4 @@ markers:
   - {type: variant, offset: 7505, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷四十三元王惲撰序}
   - {type: page-break, offset: 7505, content: '', id: KR4d0464_WYG_043-1a, image: WYG1200/WYG1200-0552a.png}
   back: []
-hash: sha256:fb9d47004aee8598817c8cc378b8689c866a1fd6f792d9d87eb6652200812794
+hash: sha256:cfb6aa16f8a1f8c15b6e296cb8d281f179ca2a5613f97e7a7b13eabc5ad0ff7d

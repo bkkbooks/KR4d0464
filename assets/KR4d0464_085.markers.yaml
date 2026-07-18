@@ -338,6 +338,7 @@ markers:
       ', id: KR4d0464_krp_085-bkkkrnewl43}
   - {type: line-break, offset: 697, content: '', id: KR4d0464_SBCK_085-2b05}
   - {type: punctuation, offset: 715, content: (, id: KR4d0464_krp_085-bkkpn1}
+  - {type: voice, offset: 715, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 716, content: /, id: KR4d0464_krp_085-bkkpn2}
   - {type: punctuation, offset: 717, content: ), id: KR4d0464_krp_085-bkkpn3}
   - {type: 'kr:newline', offset: 718, content: '
@@ -972,6 +973,7 @@ markers:
       ', id: KR4d0464_krp_085-bkkkrnewl138}
   - {type: line-break, offset: 2233, content: '', id: KR4d0464_SBCK_085-6a09}
   - {type: punctuation, offset: 2239, content: (, id: KR4d0464_krp_085-bkkpn4}
+  - {type: voice, offset: 2239, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2240, content: /, id: KR4d0464_krp_085-bkkpn5}
   - {type: punctuation, offset: 2241, content: ), id: KR4d0464_krp_085-bkkpn6}
   - {type: variant, offset: 2241, length: 1, content: 私, SBCK: 􅀻}
@@ -2092,4 +2094,4 @@ markers:
   - {type: variant, offset: 4780, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷}
   - {type: page-break, offset: 4780, content: '', id: KR4d0464_WYG_086-1a, image: WYG1201/WYG1201-0234a.png}
   back: []
-hash: sha256:610c8168eda07c0cc76b570631e997ff3e592741271becb93bb9a4e7d3ca43eb
+hash: sha256:61e47d42fbfc2a9f1b25010b279fe020f1e98cdeb439f7f886196f889eb3e85a

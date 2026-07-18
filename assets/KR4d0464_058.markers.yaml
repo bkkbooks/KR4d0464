@@ -22,6 +22,7 @@ markers:
   - {type: variant, offset: 5, length: 1, content: 丗, WYG: 世}
   - {type: variant, offset: 6, length: 1, content: 德, WYG: 徳}
   - {type: punctuation, offset: 9, content: (, id: KR4d0464_krp_058-bkkpn1}
+  - {type: voice, offset: 9, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 11, content: ), id: KR4d0464_krp_058-bkkpn2}
   - {type: 'kr:newline', offset: 11, content: '
 
@@ -729,6 +730,7 @@ markers:
   - {type: substitution, offset: 2022, original: 卄, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20142}}
   - {type: punctuation, offset: 2030, content: (, id: KR4d0464_krp_058-bkkpn3}
   - {type: variant, offset: 2030, length: 1, content: 葬, WYG: 𦵏}
+  - {type: voice, offset: 2030, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 2033, content: /, id: KR4d0464_krp_058-bkkpn4}
   - {type: punctuation, offset: 2036, content: ), id: KR4d0464_krp_058-bkkpn5}
   - {type: variant, offset: 2037, length: 1, content: 鄘, SBCK: 􅅠}
@@ -1826,6 +1828,7 @@ markers:
   - {type: indent, offset: 4342, content: 　　　　　, id: KR4d0464_krp_058-bkkind126}
   - {type: variant, offset: 4351, length: 1, content: 觀, SBCK: 􅀚}
   - {type: punctuation, offset: 4354, content: (, id: KR4d0464_krp_058-bkkpn6}
+  - {type: voice, offset: 4354, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4356, content: ), id: KR4d0464_krp_058-bkkpn7}
   - {type: 'kr:newline', offset: 4356, content: '
 
@@ -2404,6 +2407,7 @@ markers:
   - {type: line-break, offset: 5606, content: '', id: KR4d0464_SBCK_058-13b10}
   - {type: indent, offset: 5606, content: 　　　　, id: KR4d0464_krp_058-bkkind170}
   - {type: punctuation, offset: 5614, content: (, id: KR4d0464_krp_058-bkkpn8}
+  - {type: voice, offset: 5614, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5616, content: ), id: KR4d0464_krp_058-bkkpn9}
   - {type: 'kr:newline', offset: 5616, content: '
 
@@ -3680,4 +3684,4 @@ markers:
   - {type: variant, offset: 8398, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷五十九元王惲撰碑}
   - {type: page-break, offset: 8398, content: '', id: KR4d0464_WYG_059-1a, image: WYG1200/WYG1200-0769a.png}
   back: []
-hash: sha256:1c8c2efddf5759bb70eb1d22c5cd657b79764d30d66c97f529c5df1948b0444b
+hash: sha256:dd7eb62123d2ddd82db201c99148f88f971d9bf12ca39a49b165d27979f12e16

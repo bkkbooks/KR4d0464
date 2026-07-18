@@ -26,6 +26,7 @@ markers:
   - {type: line-break, offset: 16, content: '', id: KR4d0464_SBCK_056-1a04}
   - {type: indent, offset: 16, content: 　　　　, id: KR4d0464_krp_056-bkkind2}
   - {type: punctuation, offset: 18, content: (, id: KR4d0464_krp_056-bkkpn1}
+  - {type: voice, offset: 18, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 20, content: ), id: KR4d0464_krp_056-bkkpn2}
   - {type: 'kr:newline', offset: 20, content: '
 
@@ -123,6 +124,7 @@ markers:
   - {type: variant, offset: 261, length: 1, content: 寓, WYG: 居}
   - {type: punctuation, offset: 263, content: (, id: KR4d0464_krp_056-bkkpn3}
   - {type: variant, offset: 263, length: 2, content: 虎禹, WYG: 虢}
+  - {type: voice, offset: 263, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 264, content: /, id: KR4d0464_krp_056-bkkpn4}
   - {type: punctuation, offset: 265, content: ), id: KR4d0464_krp_056-bkkpn5}
   - {type: variant, offset: 273, length: 1, content: 𥙿, SBCK: 􅁉}
@@ -558,6 +560,7 @@ markers:
   - {type: line-break, offset: 1137, content: '', id: KR4d0464_SBCK_056-3b10}
   - {type: indent, offset: 1137, content: 　　　　, id: KR4d0464_krp_056-bkkind56}
   - {type: punctuation, offset: 1139, content: (, id: KR4d0464_krp_056-bkkpn6}
+  - {type: voice, offset: 1139, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1141, content: ), id: KR4d0464_krp_056-bkkpn7}
   - {type: 'kr:newline', offset: 1141, content: '
 
@@ -1436,6 +1439,7 @@ markers:
   - {type: indent, offset: 3155, content: 　　　　, id: KR4d0464_krp_056-bkkind100}
   - {type: page-break, offset: 3157, content: '', id: KR4d0464_WYG_056-11a, image: WYG1200/WYG1200-0740c.png}
   - {type: punctuation, offset: 3163, content: (, id: KR4d0464_krp_056-bkkpn8}
+  - {type: voice, offset: 3163, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 3165, content: ), id: KR4d0464_krp_056-bkkpn9}
   - {type: 'kr:newline', offset: 3165, content: '
 
@@ -2922,4 +2926,4 @@ markers:
   - {type: variant, offset: 6563, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷五十七元王惲撰碑}
   - {type: page-break, offset: 6563, content: '', id: KR4d0464_WYG_057-1a, image: WYG1200/WYG1200-0746a.png}
   back: []
-hash: sha256:810fc0704a25deb2de3d294ddd0aa444ded98d0c4ef7d1d0b1700a60bc9c5cff
+hash: sha256:c98dc9be9cdf3ee5a95a1487b1d75863359afbbb16f25add3770a6f1e9920cea

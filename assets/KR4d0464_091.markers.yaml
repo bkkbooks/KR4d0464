@@ -392,6 +392,7 @@ markers:
   - {type: punctuation, offset: 884, content: (, id: KR4d0464_krp_091-bkkpn1}
   - {type: variant, offset: 884, length: 1, content: 緫, WYG: 總}
   - {type: substitution, offset: 884, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19895}}
+  - {type: voice, offset: 884, length: 18, name: note, id: n1}
   - {type: variant, offset: 886, length: 1, content: 万, WYG: 萬}
   - {type: variant, offset: 890, length: 1, content: 万, WYG: 萬}
   - {type: variant, offset: 891, length: 1, content: 二, WYG: 五}
@@ -1875,4 +1876,4 @@ markers:
   - {type: variant, offset: 4297, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷九十二元王惲撰事狀郊祀圜}
   - {type: page-break, offset: 4297, content: '', id: KR4d0464_WYG_092-1a, image: WYG1201/WYG1201-0322a.png}
   back: []
-hash: sha256:d8488babccdebabf068d0b7294a62429e1716a8aaa6c005bb2c9bce85ee96c60
+hash: sha256:22b098be0afd45038128a85b716f9939a6711bcecf9773f6a96f6505ec19f10e

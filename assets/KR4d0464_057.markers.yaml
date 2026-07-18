@@ -396,6 +396,7 @@ markers:
   - {type: line-break, offset: 834, content: '', id: KR4d0464_SBCK_057-2b10}
   - {type: indent, offset: 834, content: 　　　　, id: KR4d0464_krp_057-bkkind3}
   - {type: punctuation, offset: 846, content: (, id: KR4d0464_krp_057-bkkpn1}
+  - {type: voice, offset: 846, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 848, content: ), id: KR4d0464_krp_057-bkkpn2}
   - {type: 'kr:newline', offset: 848, content: '
 
@@ -1940,6 +1941,7 @@ markers:
   - {type: substitution, offset: 4257, original: 緫, replacement: 總, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19895}}
   - {type: punctuation, offset: 4265, content: (, id: KR4d0464_krp_057-bkkpn3}
   - {type: variant, offset: 4265, length: 2, content: 并序, WYG: ''}
+  - {type: voice, offset: 4265, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4267, content: ), id: KR4d0464_krp_057-bkkpn4}
   - {type: 'kr:newline', offset: 4267, content: '
 
@@ -2631,4 +2633,4 @@ markers:
   - {type: variant, offset: 5873, length: 0, content: '', WYG: 欽定四庫全書秋澗集卷}
   - {type: page-break, offset: 5873, content: '', id: KR4d0464_WYG_058-1a, image: WYG1200/WYG1200-0756a.png}
   back: []
-hash: sha256:fa0a1854e39c1d586a9a29b8b4e4eeca84f7f40786d6cd71793c162203c5d058
+hash: sha256:c829aa1937ad385dad1d91c40f6895c3d6627ca24ef491394f6a39adf2f3a6ec

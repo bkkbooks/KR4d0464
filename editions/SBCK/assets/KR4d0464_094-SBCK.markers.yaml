@@ -385,6 +385,7 @@ markers:
       ', id: KR4d0464_SBCK_094-bkkkrnewl95}
   - {type: line-break, offset: 1545, content: '', id: KR4d0464_SBCK_094-4b04}
   - {type: punctuation, offset: 1553, content: (, id: KR4d0464_SBCK_094-bkkpn1}
+  - {type: voice, offset: 1553, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 1556, content: ), id: KR4d0464_SBCK_094-bkkpn2}
   - {type: 'kr:newline', offset: 1566, content: '
 
@@ -1122,8 +1123,10 @@ markers:
       ', id: KR4d0464_SBCK_094-bkkkrnewl278}
   - {type: line-break, offset: 4786, content: '', id: KR4d0464_SBCK_094-11b05}
   - {type: punctuation, offset: 4786, content: (, id: KR4d0464_SBCK_094-bkkpn3}
+  - {type: voice, offset: 4786, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 4789, content: ), id: KR4d0464_SBCK_094-bkkpn4}
   - {type: punctuation, offset: 4793, content: (, id: KR4d0464_SBCK_094-bkkpn5}
+  - {type: voice, offset: 4793, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 4802, content: ), id: KR4d0464_SBCK_094-bkkpn6}
   - {type: 'kr:newline', offset: 4811, content: '
 
@@ -1221,6 +1224,7 @@ markers:
       ', id: KR4d0464_SBCK_094-bkkkrnewl301}
   - {type: line-break, offset: 5141, content: '', id: KR4d0464_SBCK_094-12b02}
   - {type: punctuation, offset: 5145, content: (, id: KR4d0464_SBCK_094-bkkpn7}
+  - {type: voice, offset: 5145, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 5149, content: ), id: KR4d0464_SBCK_094-bkkpn8}
   - {type: 'kr:newline', offset: 5149, content: '
 
@@ -1400,6 +1404,7 @@ markers:
       ', id: KR4d0464_SBCK_094-bkkkrnewl345}
   - {type: line-break, offset: 5728, content: '', id: KR4d0464_SBCK_094-14a07}
   - {type: punctuation, offset: 5729, content: (, id: KR4d0464_SBCK_094-bkkpn9}
+  - {type: voice, offset: 5729, length: 5, name: note, id: n5}
   - {type: punctuation, offset: 5734, content: ), id: KR4d0464_SBCK_094-bkkpn10}
   - {type: 'kr:newline', offset: 5734, content: '
 
@@ -1498,4 +1503,4 @@ markers:
 
       ', id: KR4d0464_SBCK_094-bkkkrnewl369}
   back: []
-hash: sha256:13c332b7e212eec9f26f7392643667b4d67e571195164cde600c2826a7d87870
+hash: sha256:f3a8950a7e6d53dd4092c230277a49b4cc411248aa867ce6448c57ed4799c8eb
